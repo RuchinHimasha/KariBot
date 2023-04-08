@@ -82,7 +82,7 @@ body {
     height: 40px;
     border-radius: 10px;
     background-color: #8a96a3;
-    margin-bottom: auto;
+    margin-bottom: auto !import;
     padding: 2px;
     overflow: hidden;
 }
