@@ -82,7 +82,7 @@ body {
     height: 40px;
     border-radius: 10px;
     background-color: #8a96a3;
-    margin-bottom: auto !import;
+    margin-bottom: auto !important;
     padding: 2px;
     overflow: hidden;
 }
@@ -193,18 +193,6 @@ button[type="submit"]:hover {
 /* profile image */
 .profile {
   margin: 0 1rem 0 0;
-}
-
-.profile {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  width: 40px;
-  height: 40px;
-  border-radius: 10px;
-  background-color: #8a96a3;
-  padding: 2px;
-  overflow: hidden;
 }
 
 .profile img {
@@ -344,8 +332,4 @@ pre{
   to {
     transform: rotate(180deg);
   }
-}
-
-.profile {
-    margin-bottom: auto !important;
 }
