@@ -263,6 +263,10 @@ h1{
   margin: 0;
 }
 
+pre{
+  font-family: 'Poppins';
+}
+
 /* Media queries */
 @media screen and (max-width: 768px) {
   .message{
