@@ -194,7 +194,7 @@ button[type="submit"]:hover {
 .message {
   padding: 0.5rem 1rem;
   border-radius: 0 1rem 1rem 1rem;
-  max-width: 100%;
+  max-width: 100% !important;
   line-height: 1.5;
   margin-right: 10px;
 }
