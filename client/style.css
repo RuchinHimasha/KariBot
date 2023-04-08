@@ -345,3 +345,7 @@ pre{
     transform: rotate(180deg);
   }
 }
+
+.profile {
+    margin-bottom: auto !important;
+}
