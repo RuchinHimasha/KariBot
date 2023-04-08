@@ -264,7 +264,7 @@ h1{
 }
 
 pre{
-  font-family: 'Poppins';
+  font-family: 'Poppins' !important;
 }
 
 /* Media queries */
